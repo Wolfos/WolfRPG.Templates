@@ -1,0 +1,21 @@
+{
+    "name": "WolfRPG.Templates",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f486269150b9f4064b4fdcf73cab8373",
+        "GUID:764eb66e7cecd3146b2ca71a655cf10e",
+        "GUID:932c2ee4d1c3f654d9a8cf0af41ff2fa",
+        "GUID:185b1bff81d510640aa7885704058061"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

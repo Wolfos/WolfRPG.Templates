@@ -1,0 +1,21 @@
+{
+  "name": "nl.eestudio.wolfrpg.templates",
+  "version": "0.1.0",
+  "displayName": "WolfRPG.Templates",
+  "description": "",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/Wolfos/WolfRPG.Inventory/wiki",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "nl.eestudio.wolfrpg.core": "1.1.0",
+    "nl.eestudio.wolfrpg.character": "0.1.0",
+    "nl.eestudio.wolfrpg.inventory": "0.1.0"
+	
+  },
+  "author": {
+    "name": "eeStudio",
+    "email": "",
+    "url": "http://eestudio.nl"
+  }
+}
