@@ -13,8 +13,7 @@ public class CharacterTemplate : IWolfRPGTemplate
 			new CharacterComponent(),
 			new CharacterAttributes(),
 			new CharacterSkills(),
-			new LoadoutComponent(),
-			new CharacterCustomizationComponent()
+			new LoadoutComponent()
 		};
 
 	}
